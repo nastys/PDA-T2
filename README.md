@@ -14,3 +14,7 @@ Just drag the files from the latest commit (hosted on GitHub) into your 2d folde
 Something is wrong, what can I do?
 
 If there's an issue with the graphics or text (apart from the font) used in PDA-T2, please let me know either by making an issue on GitHub or messaging me on Discord at Jay39#7310.
+
+Can I upload footage of the game using this translation to YouTube?
+
+Yes, but with credit either in the Description or Video itself. Same applies for other social networking sites or video hosting.
