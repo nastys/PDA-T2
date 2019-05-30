@@ -9,7 +9,7 @@ PDA-T2 aims to provide an okay player experience to someone with no knowledge of
 
 How do I install it?
 
-Just drag the files from the latest commit (hosted on GitHub) into your 2d folder (for the .farc files) and to the rom folder of your dump. (for the pv_db.txt file) Then, run the game and enjoy!
+Copy the latest files to the areas designated on the GitHub repository, run the game and enjoy! If you're using mdata, please make sure to install the patch in the mdata area as well.
 
 Something is wrong, what can I do?
 
