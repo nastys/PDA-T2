@@ -5,7 +5,7 @@ PDA-T2 is the continuation of the PDA-T project that I started a few months back
 
 What does it do?
 
-PDA-T2 aims to provide a stable player experience to someone with no knowledge of the Japanese language. Basically, make the core game and it's menus understandable and usable to a non-Japanese speaker.
+PDA-T2 aims to provide a stable player experience to someone with no knowledge of the Japanese language. Basically, make the core game  understandable and usable to a non-Japanese speaker.
 
 The module select, lyrics, titles and various screens will all be translated by the final release.
 
