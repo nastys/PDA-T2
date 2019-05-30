@@ -1,7 +1,7 @@
 # PDA-T2
 What is PDA-T2?
 
-PDA-T2 is the continuation of the PDA-T project that I started a few months back to make the game Hatsune Miku: Project Diva Arcade playable in English to some extent. With the public dump of Arcade Future Tone, I thought a new revision of this project was in order.
+PDA-T2 is the continuation of the PDA-T project that I started a few months back to make the game Hatsune Miku: Project DIVA Arcade playable in English to some extent. With the public dump of Arcade Future Tone, I thought a new revision of this project was in order.
 
 What does it do?
 
@@ -28,4 +28,4 @@ Thank you to Mimi for graphic work and making bases.
 Thank you to Nastys for supporting the project.
 Thank you to Lemon for the music note idea, still.
 Thank you to my Japanese teachers, couldn't have done it without you. <3
-Thank you to the user base for giving me a reason to do this, helps with ye olde depression.
+Thank you to the user base for giving me a reason to do this, helps with Ye olde depression.
