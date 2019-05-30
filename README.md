@@ -5,7 +5,9 @@ PDA-T2 is the continuation of the PDA-T project that I started a few months back
 
 What does it do?
 
-PDA-T2 aims to provide an okay player experience to someone with no knowledge of the Japanese language. Basically, make the core game and it's menus understandable and usable to a non-Japanese speaker.
+PDA-T2 aims to provide a stable player experience to someone with no knowledge of the Japanese language. Basically, make the core game and it's menus understandable and usable to a non-Japanese speaker.
+
+The module select, lyrics, titles and various screens will all be translated by the final release.
 
 How do I install it?
 
@@ -17,4 +19,13 @@ If there's an issue with the graphics or text (apart from the font) used in PDA-
 
 Can I upload footage of the game using this translation to YouTube?
 
-Yes, but with credit either in the Description or Video itself. Same applies for other social networking sites or video hosting.
+Yes, but with credit to PDA-T2 either in the Description or Video itself. Same applies for other social networking sites or video hosting.
+
+Special Thanks/Credits:
+Thank you to Skyth for MMM, a wonderful tool that supports graphic replacement.
+Thank you to Samyuu for the various tools that make the series feel more lively, such as TLAC.
+Thank you to Mimi for graphic work and making bases.
+Thank you to Nastys for supporting the project.
+Thank you to Lemon for the music note idea, still.
+Thank you to my Japanese teachers, couldn't have done it without you. <3
+Thank you to the user base for giving me a reason to do this, helps with ye olde depression.
